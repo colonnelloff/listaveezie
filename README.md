@@ -35,5 +35,8 @@ Compilare tutte le credenziali necessarie se si vuole utilizzare la funzione di 
 
 veezie non è un marchio di nostra proprietà tanto meno il suo codice, tutti i diritti riservati ai relativi propritari
 
+## Screenshots
+
+![App Screenshot](https://iili.io/5Wfwkg.md.png)
 
 
