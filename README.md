@@ -33,5 +33,7 @@ Tutte le funzioni che permettono il perfetto funzionamento del codice pronte per
 Compilare tutte le credenziali necessarie se si vuole utilizzare la funzione di generazione di link pastebin
 
 
+veezie non è un marchio di nostra proprietà tanto meno il suo codice, tutti i diritti riservati ai relativi propritari
+
 
 
