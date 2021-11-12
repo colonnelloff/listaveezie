@@ -4,7 +4,7 @@
 // utile per le liste più impegnative da elaborare
 set_time_limit(0);
 
-// legge il contenuto dei pastebin
+// legge il contenuto dei pastebin e lo trasforma in array
 // IMPORTANTE le liste devono essere https://pastebin.com/raw/esempio
 function pastebin_in_array($array_p)
 {
