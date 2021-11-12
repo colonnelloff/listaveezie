@@ -9,10 +9,25 @@ Questo generatore ti permette di unire più liste canali automatiche SOLO PASTEB
 Il codice è gia pronto per l'utilizzo, basta creare un server LAMP, apache2 o nginx, per semplificazione utilizzeremo nell'esempio XAMPP.
 
 Installare xampp da questo link https://www.apachefriends.org/it/ 
-* avviare il programma
+* avviare xampp
+![App Screenshot](https://i.ibb.co/t2jCXXZ/1.png)
+
 * avviare apache
-* inserire nella cartella /htdocs/ i file scaricati da github
+![App Screenshot](https://i.ibb.co/myscRvG/2.png)
+
+* cliccare explorer
+![App Screenshot](https://i.ibb.co/FBkXhZT/3.png)
+
+* rimuovere i file dalla cartella
+![App Screenshot](https://i.ibb.co/MZzqK7N/4.png)
+
+* inserire nella cartella /htdocs/ i file scaricati da github SCOMPATTATI
+![App Screenshot](https://i.ibb.co/47fyMfh/5.png)
+
 * avviare tramite localhost o tramite dominio dell'hosting se hostato
+* IMPORTANTE! Avviato il programma il caricamento è lento perchè sta già generando le liste
+* NON SIATE IMPAZIENTI!
+![App Screenshot](https://i.ibb.co/GRzsLsx/6.png)
 
 # Utilizzo
 
