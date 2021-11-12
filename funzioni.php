@@ -1,7 +1,11 @@
 <?php
 
+// imposta il caricamento infinito della pagina
+// utile per le liste più impegnative da elaborare
 set_time_limit(0);
 
+// legge il contenuto dei pastebin
+// IMPORTANTE le liste devono essere https://pastebin.com/raw/esempio
 function pastebin_in_array($array_p)
 {
   $clean = array();
@@ -24,6 +28,7 @@ $result = array_unique($clean);
 return $result;
 }
 
+// controlla che i link funzionino (LENTO, MA FUNZIONANTE AL 100%)
 function verifica_link($array_l)
 {
   $exported = array();
@@ -40,6 +45,8 @@ function verifica_link($array_l)
   return $exported;
 }
 
+// legge i link pastebin dal file pastebin.txt
+// IMPORTANTE andare sempre a capo per ogni link pastebin, non inserire spazi
 function link_da_txt()
 {
   $pastebin_l = array();
@@ -53,6 +60,7 @@ function link_da_txt()
   return $pastebin_l;
 }
 
+// crea link un link pastebin con le loro api
 function crea_link_pastebin($link_funzionanti)
 {
       include_once "credenziali.php";
@@ -70,6 +78,8 @@ function crea_link_pastebin($link_funzionanti)
       return $result;
 }
 
+
+// controlla che i link funzionino (VELOCE, MA RARAMENTE BUGGATO)
 function verifica_link_veloce($array_f)
 {
   $check = array();
