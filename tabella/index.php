@@ -18,7 +18,7 @@
       <p>* avere pazienza con questa app non guasta ;)</p>
 
       <form class="" action="controllo.php" method="post">
-        <textarea name="link_pastebin" style="width: 100%;height: 40em;"></textarea><br>
+        <textarea placeholder="https://pastebin.com/raw/11111&#13https://pastebin.com/raw/22222&#13" name="link_pastebin" style="width: 100%;height: 40em;"></textarea><br>
         <button style="font-size: 3em;" type="submit" class="btn btn-primary">Analizza</button>
       </form>
     </div>
