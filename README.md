@@ -71,11 +71,15 @@ Compilare tutte le credenziali necessarie se si vuole utilizzare la funzione di 
 per connettersi usare l'ip della raspberry e la sua porta settata in apache2 (solitamente la porta 80)
     
 ## Demo GUI
+* IMPORTANTE! Avviato il programma il caricamento è lento perchè sta già generando le liste
+* NON SIATE IMPAZIENTI! <br />
 
 https://veezielist.herokuapp.com/
 
 
 ## Demo direct.php
+* IMPORTANTE! Avviato il programma il caricamento è lento perchè sta già generando le liste
+* NON SIATE IMPAZIENTI! <br />
 
 https://veezielist.herokuapp.com/direct.php
 
