@@ -83,6 +83,11 @@ https://veezielist.herokuapp.com/
 
 https://veezielist.herokuapp.com/direct.php
 
+# NOVITÀ
+## Demo /tabella/
+* controlla se le liste hanno link che non funzionano e quali
+https://veezielist.herokuapp.com/tabella/
+
 
 ## Screenshots
 
