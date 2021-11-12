@@ -69,3 +69,7 @@ https://veezielist.herokuapp.com/direct.php
 
 ![App Screenshot](https://iili.io/5Wfwkg.md.png)
 
+# IMPORTANTE!
+Creare un proprio server potrebbe essere utile per evitare ritardi, blocchi o altri problemi che ci potrebbero essere.
+Il server demo funziona per un numero limitato di persone e una volta sovracaricato sarà inutilizzabile!
+
