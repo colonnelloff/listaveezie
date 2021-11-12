@@ -11,7 +11,7 @@ Il codice è gia pronto per l'utilizzo, basta creare un server LAMP, apache2 o n
 Installare xampp da questo link https://www.apachefriends.org/it/ 
 * avviare il programma
 * avviare apache
-* inserire nella cartella /htdocs/ il programma scaricato da github
+* inserire nella cartella /htdocs/ i file scaricati da github
 * avviare tramite localhost o tramite dominio dell'hosting se hostato
 
 # Utilizzo
