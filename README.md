@@ -24,7 +24,7 @@ Installare xampp da questo link https://www.apachefriends.org/it/
 * inserire nella cartella /htdocs/ i file scaricati da github SCOMPATTATI <br />
 ![App Screenshot](https://i.ibb.co/47fyMfh/5.png)
 
-* avviare tramite localhost o tramite dominio dell'hosting se hostato
+* il link sarà http://localhost o dominio dell'hosting se hostato
 * IMPORTANTE! Avviato il programma il caricamento è lento perchè sta già generando le liste
 * NON SIATE IMPAZIENTI! <br />
 ![App Screenshot](https://i.ibb.co/GRzsLsx/6.png)
