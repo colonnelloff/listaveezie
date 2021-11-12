@@ -72,4 +72,7 @@ https://veezielist.herokuapp.com/direct.php
 # IMPORTANTE!
 Creare un proprio server potrebbe essere utile per evitare ritardi, blocchi o altri problemi che ci potrebbero essere.
 Il server demo funziona per un numero limitato di persone e una volta sovracaricato sarà inutilizzabile!
+Il team glitch e i suoi sviluppatori e il capo del team non sono in alcun modo associati o collaboratori di Veezie.
 
+# Tutto bello, ma perchè?
+Volevo che ognuno potesse avere la possibilità di generare la propria lista sempre funzionante per il meraviglioso programma veezie.
