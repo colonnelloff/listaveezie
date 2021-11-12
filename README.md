@@ -33,10 +33,39 @@ Tutte le funzioni che permettono il perfetto funzionamento del codice pronte per
 Compilare tutte le credenziali necessarie se si vuole utilizzare la funzione di generazione di link pastebin
 
 
-veezie non è un marchio di nostra proprietà tanto meno il suo codice, tutti i diritti riservati ai relativi propritari
+
+
+
+## Installazione raspberry pi
+
+```bash
+    sudo apt-get update && sudo apt-get upgrade
+    sudo apt-get install apache2 -y
+    sudo apt-get install php -y
+    sudo service apache2 stop
+    sudo rmdir /var/www/html
+    sudo mkdir /var/www/html
+
+    //inserire qua i file scaricati da github
+    cd /var/www/html
+
+    sudo service apache2 start
+
+```
+
+per connettersi usare l'ip della raspberry e la sua porta settata in apache2 (solitamente la porta 80)
+    
+## Demo GUI
+
+https://veezielist.herokuapp.com/
+
+
+## Demo direct.php
+
+https://veezielist.herokuapp.com/direct.php
+
 
 ## Screenshots
 
 ![App Screenshot](https://iili.io/5Wfwkg.md.png)
-
 
