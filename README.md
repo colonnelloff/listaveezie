@@ -88,6 +88,8 @@ https://veezielist.herokuapp.com/direct.php
 * controlla se le liste hanno link che non funzionano e quali
 https://veezielist.herokuapp.com/tabella/
 
+* oppure con un solo link in modo diretto
+https://veezielist.herokuapp.com/tabella/controllo.php?link=https://pastebin.com/raw/blabla
 
 ## Screenshots
 
