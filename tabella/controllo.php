@@ -22,7 +22,11 @@
 
         <?php
           // legge il contenuto dei link pastebin
-          $link_pastebin = $_POST['link_pastebin'];
+          if(isset($_GET['link'])) {
+            $link_pastebin = $_GET['link'];
+          } else {
+            $link_pastebin = $_POST['link_pastebin'];
+          }
           $values = preg_split('/\r\n|\r|\n/', $link_pastebin);
           $values = array_filter($values);
 
